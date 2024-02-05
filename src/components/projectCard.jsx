@@ -6,7 +6,11 @@ export default function ProjectCard(props) {
     <>
       <div className="cardContainer col-lg-4 col-md-12 col-sm-12">
         <div className="card border-dark">
-          <img src={quizzical} className="card-img-top" alt="..." />
+          <img
+            src={props.imageSrc}
+            className="card-img-top"
+            alt={props.imageAlt}
+          />
           <div className="card-body">
             <h5 className="card-title">{props.name}</h5>
             <p className="card-text">{props.description}</p>
