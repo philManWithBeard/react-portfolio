@@ -35,28 +35,28 @@
     "description": "Digital democratic tool for renters",
     "deployedApp": "https://philmanwithbeard.github.io/weAreMany/renting/",
     "github": "https://github.com/philManWithBeard/weAreMany",
-    "imageSrc": "./",
+    "imageSrc": "https://github.com/philManWithBeard/react-portfolio/blob/main/src/assets/we-are-many.png?raw=true",
     "imageAlt": "./",
     "skills": "AstroJS | HTML | Tailwind | Javascript"
   },
   {
     "id": 5,
-    "name": "Grassroots Druids Heath",
-    "description": "Astro.build site for a community group.",
+    "name": "Placeholder",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "deployedApp": "https://grassrootsdruidsheath.pages.dev/",
     "github": "https://",
-    "imageSrc": "./",
-    "imageAlt": "./",
-    "skills": "AstroJS | HTML | Tailwind | Javascript"
+    "imageSrc": "https://placehold.co/800x800",
+    "imageAlt": "Placeholder Image",
+    "skills": "Not applicable"
   },
   {
     "id": 6,
-    "name": "Grassroots Druids Heath",
-    "description": "Astro.build site for a community group.",
+    "name": "Placeholder",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "deployedApp": "https://grassrootsdruidsheath.pages.dev/",
     "github": "https://",
-    "imageSrc": "./",
-    "imageAlt": "./",
-    "skills": "AstroJS | HTML | Tailwind | Javascript"
+    "imageSrc": "https://placehold.co/800x800",
+    "imageAlt": "Placeholder Image",
+    "skills": "Not applicable"
   }
 ]
