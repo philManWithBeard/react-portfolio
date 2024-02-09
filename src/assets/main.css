@@ -1,0 +1,111 @@
+/* Page Settings */
+
+h2 {
+  font-family: 'Goudy Bookletter 1911', serif;
+  font-size: 3rem;
+}
+
+.btn:hover {
+  box-shadow: 0.25rem 0.25rem #ffa695;
+}
+
+.btn {
+  border-radius: 0;
+}
+
+p {
+  font-family: 'Mulish Variable', sans-serif;
+}
+
+/* Nav Section */
+
+.navbar {
+  background-color: #e7e7e7;
+
+}
+
+.navbar li {
+  font-family: 'Oswald Variable', sans-serif;
+}
+
+header>div>a {
+  font-family: 'Space Mono', monospace;
+  text-decoration: none;
+}
+
+/* Hero Section */
+
+.hero {
+  background-color: #ffe8b3;
+  padding: 8rem 2rem;
+}
+
+/* Work Section */
+
+.work {
+  background-color: #90d6c3;
+  padding: 8rem 2rem;
+
+}
+
+.work .btn:hover {
+  box-shadow: 0.25rem 0.25rem #90d6c3;
+}
+
+/* Skills Section */
+
+.skills {
+  padding: 8rem 2rem;
+  background-color: #ffa695;
+
+}
+
+/* About Me Section */
+
+.about-me {
+  background-color: #73a9ba;
+  padding: 8rem 2rem;
+}
+
+.about-me .btn {
+  color: #e7e7e7;
+}
+
+/* Footer Section */
+
+footer {
+  background-color: #e7e7e7;
+  padding: 4rem 2rem;
+}
+
+footer a {
+  color: inherit;
+  padding: .3rem 0;
+}
+
+#footer-links:hover {
+  background-color: #212529;
+  color: #e7e7e7;
+}
+
+.icon {
+  margin: 0.3rem;
+}
+
+.icons a {
+  text-decoration: none;
+}
+
+.icons path {
+  fill: #e7e7e7;
+}
+
+.icons path:hover {
+  fill: #ffa695;
+}
+
+/* Project Page */
+
+.project {
+  padding: 8rem 2rem;
+}
