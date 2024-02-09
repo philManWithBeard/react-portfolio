@@ -16,7 +16,6 @@ export default function Contact() {
                 <ContactForm />
               </div>
               <div className="col-lg-4 col-md-6 col-sm-12 row align-items-start justify-content-center px-5">
-                <p className="">phil@fullystacked.com</p>
                 <Link
                   to="mailto:phil@fullystacked.io"
                   target="_blank"
