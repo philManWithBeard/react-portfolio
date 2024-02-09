@@ -19,8 +19,10 @@ export default function Projects() {
               {ProjectsObj.map((project) => (
                 <ProjectCard
                   name={project.name}
+                  slug={project.slug}
                   key={project.id}
                   imageSrc={project.imageSrc}
+                  imageAlt={project.imageAlt}
                   github={project.github}
                   deployedApp={project.deployedApp}
                   skills={project.skills}
