@@ -1,36 +1,40 @@
 [
   {
     "id": 1,
+    "slug": "quizzical",
     "name": "Quizzical.io",
     "description": "A quaint quiz app built in Javascript, HTML and CSS.",
     "deployedApp": "https://philmanwithbeard.github.io/quizzical/",
     "github": "https://github.com/philManWithBeard/quizzical",
     "imageSrc": "https://github.com/philManWithBeard/react-portfolio/blob/main/src/assets/quizzical.png?raw=true",
-    "imageAlt": "./",
+    "imageAlt": "screenshot of the quizzical web app",
     "skills": "CSS | HTML | Javascript"
   },
   {
     "id": 2,
+    "slug": "grassroots-druids-heath",
     "name": "Grassroots Druids Heath",
     "description": "Astro.build site for a community group.",
     "deployedApp": "https://grassrootsdruidsheath.pages.dev/",
-    "github": "https://",
+    "github": "https://github.com/philManWithBeard/grassrootsDruidsHeath",
     "imageSrc": "https://github.com/philManWithBeard/react-portfolio/blob/main/src/assets/grassroots.png?raw=true",
-    "imageAlt": "./",
+    "imageAlt": "screenshot of the grassroots druids heath website",
     "skills": "AstroJS | HTML | Tailwind | Javascript"
   },
   {
     "id": 3,
+    "slug": "listeningto",
     "name": "Listeningto.io",
     "description": "Share what you've been listening to recently.",
     "deployedApp": "https://grassrootsdruidsheath.pages.dev/",
-    "github": "https://",
+    "github": "https://github.com/philManWithBeard/listeningto.io",
     "imageSrc": "https://github.com/philManWithBeard/react-portfolio/blob/main/src/assets/listeningto.png?raw=true",
     "imageAlt": "./",
-    "skills": "AstroJS | HTML | Tailwind | Javascript"
+    "skills": "ExpressJS | HTML | CSS | Javascript"
   },
   {
     "id": 4,
+    "slug": "we-are-many",
     "name": "We Are Many",
     "description": "Digital democratic tool for renters",
     "deployedApp": "https://philmanwithbeard.github.io/weAreMany/renting/",
@@ -41,20 +45,22 @@
   },
   {
     "id": 5,
+    "slug": "placeholder1",
     "name": "Placeholder",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "deployedApp": "https://grassrootsdruidsheath.pages.dev/",
-    "github": "https://",
+    "deployedApp": "https://github.com/philManWithBeard/",
+    "github": "https://github.com/philManWithBeard/",
     "imageSrc": "https://placehold.co/800x800",
     "imageAlt": "Placeholder Image",
     "skills": "Not applicable"
   },
   {
     "id": 6,
+    "slug": "placeholder2",
     "name": "Placeholder",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "deployedApp": "https://grassrootsdruidsheath.pages.dev/",
-    "github": "https://",
+    "deployedApp": "https://github.com/philManWithBeard/",
+    "github": "https://github.com/philManWithBeard/",
     "imageSrc": "https://placehold.co/800x800",
     "imageAlt": "Placeholder Image",
     "skills": "Not applicable"
