@@ -4,7 +4,7 @@ import "@fontsource/goudy-bookletter-1911";
 import "@fontsource-variable/mulish";
 import "@fontsource-variable/oswald";
 import "@fontsource/space-mono/700-italic.css";
-import "../index.css";
+import "../assets/main.css";
 import "bootstrap/dist/css/bootstrap.css";
 import "bootstrap";
 
