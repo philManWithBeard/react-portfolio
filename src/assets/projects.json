@@ -61,7 +61,7 @@
     "description": "Asks questions in the command line then generates a readme.md file.",
     "deployedApp": "https://stackblitz.com/~/github.com/philManWithBeard/readme-generator",
     "github": "https://github.com/philManWithBeard/readme-generator",
-    "imageSrc": "https://github.com/philManWithBeard/react-portfolio/blob/main/src/assets/readme-generator.png",
+    "imageSrc": "https://raw.githubusercontent.com/philManWithBeard/react-portfolio/main/src/assets/readme-generator.png",
     "imageAlt": "Screenshot of the command line app",
     "skills": "Javascript | Inquirer"
   }
