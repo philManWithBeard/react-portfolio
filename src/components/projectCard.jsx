@@ -18,7 +18,7 @@ export default function ProjectCard(props) {
             <Link
               to={"/projects/" + props.slug}
               href={"https://philmanwithbeard.github.io/projects/" + props.slug}
-              className="btn-dark d-inline-flex align-items-center btn btn-primary btn-lg px-4"
+              className="btn-dark rounded-0 d-inline-flex align-items-center btn btn-primary btn-lg px-4"
             >
               See more
             </Link>
