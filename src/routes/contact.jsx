@@ -15,7 +15,7 @@ export default function Contact() {
                 <h2 className="sectionHeading">Contact Me</h2>
                 <ContactForm />
               </div>
-              <div className="col-lg-4 col-md-6 col-sm-12 row align-items-start justify-content-center px-5">
+              <div className="col-lg-4 col-md-6 col-sm-12 row align-items-start justify-content-center lg-px-5">
                 <Link
                   to="mailto:phil@fullystacked.io"
                   target="_blank"
