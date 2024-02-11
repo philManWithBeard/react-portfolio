@@ -6,9 +6,9 @@ export default function Footer() {
       <footer className="container-fluid">
         <div className="container">
           <div className="row align-items-end justify-content-start g-2">
-            <div className="icons col-lg-4 col-md-4 col-sm-4">
+            <div className="icons col-lg- col-md-6 col-sm-6">
               <a
-                className="btn-dark d-inline-flex align-items-center btn-dark d-inline-flex align-items-center btn btn-primary btn-lg btn-lg me-2"
+                className="btn-dark rounded-0 d-inline-flex align-items-center btn-dark d-inline-flex align-items-center btn btn-primary btn-lg btn-lg me-2"
                 href="https://uk.linkedin.com/in/philip-burrows-9804775b"
                 target="_blank"
               >
@@ -25,7 +25,7 @@ export default function Footer() {
                 </svg>
               </a>
               <a
-                className="btn-dark d-inline-flex align-items-center btn-dark d-inline-flex align-items-center btn btn-primary btn-lg btn-lg  me-2"
+                className="btn-dark rounded-0 d-inline-flex align-items-center btn-dark d-inline-flex align-items-center btn btn-primary btn-lg btn-lg  me-2"
                 href="mailto:phil@fullystacked.io"
                 target="_blank"
               >
@@ -42,7 +42,7 @@ export default function Footer() {
                 </svg>
               </a>
               <a
-                className="btn-dark d-inline-flex align-items-center btn-dark d-inline-flex align-items-center btn btn-primary btn-lg btn-lg  me-2"
+                className="btn-dark rounded-0 d-inline-flex align-items-center btn-dark d-inline-flex align-items-center btn btn-primary btn-lg btn-lg  me-2"
                 href="https://github.com/philManWithBeard"
                 target="_blank"
               >
