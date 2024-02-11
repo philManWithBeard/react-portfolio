@@ -1,5 +1,4 @@
 import React from "react";
-import quizzical from "../assets/quizzical.png";
 import { Link } from "react-router-dom";
 
 export default function ProjectCard(props) {
