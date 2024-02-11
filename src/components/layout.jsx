@@ -13,7 +13,7 @@ import Footer from "./footer";
 
 export default function Layout({ children }) {
   return (
-    <div>
+    <div className="vh-100 d-flex flex-column justify-content-between">
       <Header />
       {children}
       <Footer />

@@ -9,7 +9,7 @@ export default function Contact() {
   return (
     <>
       <Layout>
-        <div className="container-fluid about-me" id="about-me">
+        <div className="container-fluid about-me h-100" id="about-me">
           <div className="row align-items-start justify-content-center">
             <h2 className="col-lg-8 col-10">Contact Me</h2>
           </div>
