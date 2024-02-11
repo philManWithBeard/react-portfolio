@@ -55,18 +55,35 @@ const ContactForm = () => {
       className="align-items-start row g-2"
     >
       <div>
-        <input type="text" placeholder="Your name" name="name" required />
+        <input
+          type="text"
+          placeholder="Your name"
+          name="name"
+          required
+          className="w-100 p-2"
+        />
       </div>
       <div>
-        <input type="email" placeholder="Email" name="email" required />
+        <input
+          type="email"
+          placeholder="Email"
+          name="email"
+          required
+          className="w-100 p-2"
+        />
       </div>
       <div>
-        <textarea placeholder="Your message" name="message" required />
+        <textarea
+          placeholder="Your message"
+          name="message"
+          required
+          className="w-100 p-2"
+        />
       </div>
       <div>
         <button
           type="submit"
-          className="btn-dark d-inline-flex align-items-center btn-dark d-inline-flex align-items-center btn btn-primary btn-lg px-4 my-4 btn-lg px-4"
+          className="btn-dark rounded-0 btn-dark btn btn-lg px-4"
         >
           Send a message
         </button>
