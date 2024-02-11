@@ -45,14 +45,14 @@
   },
   {
     "id": 5,
-    "slug": "placeholder1",
-    "name": "Placeholder",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "deployedApp": "https://github.com/philManWithBeard/",
-    "github": "https://github.com/philManWithBeard/",
+    "slug": "team-profile-generator",
+    "name": "Team Profile Generator",
+    "description": "Create a team profile page from the command line",
+    "deployedApp": "https://stackblitz.com/~/github.com/philManWithBeard/team-profile-generator",
+    "github": "https://github.com/philManWithBeard/team-profile-generator",
     "imageSrc": "https://placehold.co/800x800",
-    "imageAlt": "Placeholder Image",
-    "skills": "Not applicable"
+    "imageAlt": "Screenshot of the command line",
+    "skills": "Javascript | Bootstrap | Jest"
   },
   {
     "id": 6,
