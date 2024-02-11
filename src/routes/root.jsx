@@ -44,7 +44,7 @@ export default function Root() {
                     amount of music. Recommend a band to me and I'll love you
                     forever.
                   </p>
-                  <a className="btn-dark d-inline-flex align-items-center btn-dark d-inline-flex align-items-center btn btn-primary btn-lg px-4  btn-lg px-4">
+                  <a className="btn-dark rounded-0 d-inline-flex align-items-center btn-dark d-inline-flex align-items-center btn btn-primary btn-lg px-4  btn-lg px-4">
                     Let's Talk
                   </a>
                 </div>
