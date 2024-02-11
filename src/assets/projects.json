@@ -37,8 +37,8 @@
     "slug": "we-are-many",
     "name": "We Are Many",
     "description": "Digital democratic tool for renters",
-    "deployedApp": "https://philmanwithbeard.github.io/weAreMany/renting/",
-    "github": "https://github.com/philManWithBeard/weAreMany",
+    "deployedApp": "https://philmanwithbeard.github.io/we-are-many/renting/",
+    "github": "https://github.com/philManWithBeard/we-are-many",
     "imageSrc": "https://github.com/philManWithBeard/react-portfolio/blob/main/src/assets/we-are-many.png?raw=true",
     "imageAlt": "./",
     "skills": "AstroJS | HTML | Tailwind | Javascript"
