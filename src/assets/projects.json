@@ -36,7 +36,7 @@
     "id": 4,
     "slug": "we-are-many",
     "name": "We Are Many",
-    "description": "Digital democratic tool for renters",
+    "description": "Digital democratic tool for renters.",
     "deployedApp": "https://philmanwithbeard.github.io/we-are-many/renting/",
     "github": "https://github.com/philManWithBeard/we-are-many",
     "imageSrc": "https://github.com/philManWithBeard/react-portfolio/blob/main/src/assets/we-are-many.png?raw=true",
@@ -47,22 +47,22 @@
     "id": 5,
     "slug": "team-profile-generator",
     "name": "Team Profile Generator",
-    "description": "Create a team profile page from the command line",
+    "description": "Create a team profile page from the command line.",
     "deployedApp": "https://stackblitz.com/~/github.com/philManWithBeard/team-profile-generator",
     "github": "https://github.com/philManWithBeard/team-profile-generator",
-    "imageSrc": "https://placehold.co/800x800",
-    "imageAlt": "Screenshot of the command line",
+    "imageSrc": "https://raw.githubusercontent.com/philManWithBeard/react-portfolio/main/src/assets/team-profile-generator.png",
+    "imageAlt": "Screenshot of the command line app",
     "skills": "Javascript | Bootstrap | Jest"
   },
   {
     "id": 6,
-    "slug": "placeholder2",
-    "name": "Placeholder",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "deployedApp": "https://github.com/philManWithBeard/",
-    "github": "https://github.com/philManWithBeard/",
-    "imageSrc": "https://placehold.co/800x800",
-    "imageAlt": "Placeholder Image",
-    "skills": "Not applicable"
+    "slug": "readme-generator",
+    "name": "Readme Generator",
+    "description": "Asks questions in the command line then generates a readme.md file.",
+    "deployedApp": "https://stackblitz.com/~/github.com/philManWithBeard/readme-generator",
+    "github": "https://github.com/philManWithBeard/readme-generator",
+    "imageSrc": "https://raw.githubusercontent.com/philManWithBeard/react-portfolio/main/src/assets/readme-generator.png",
+    "imageAlt": "Screenshot of the command line app",
+    "skills": "Javascript | Inquirer"
   }
 ]
