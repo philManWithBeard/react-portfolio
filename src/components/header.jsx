@@ -4,7 +4,7 @@ import { HashLink as Link } from "react-router-hash-link";
 export default function Header() {
   return (
     <>
-      <header className="navbar navbar-expand-lg sticky-top p-4">
+      <header className="navbar navbar-expand-lg fixed-top p-4">
         <div className="container-fluid">
           <Link to={"/#"}>
             <span className="navbar-brand h1 m-0">Phil Burrows</span>
