@@ -22,7 +22,7 @@ export default function ProjectCard(props) {
                 href={
                   "https://philmanwithbeard.github.io/projects/" + props.slug
                 }
-                className="btn-dark rounded-0 d-inline-flex btn btn-primary btn-lg px-4"
+                className="btn-dark rounded-0 d-inline-flex btn btn-primary btn-lg px-4 mt-2"
               >
                 See more
               </Link>
