@@ -37,11 +37,6 @@ header>div>a {
   padding: 10rem 2rem 8rem 2rem;
 }
 
-/* Project Section */
-
-.project {
-  padding: 10rem 2rem 8rem 2rem;
-}
 
 /* Work Section */
 
@@ -121,5 +116,5 @@ footer a {
 /* Project Page */
 
 .project {
-  padding: 8rem 2rem;
+  padding: 10rem 2rem 6rem 2rem;
 }

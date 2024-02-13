@@ -12,8 +12,8 @@ export default function Project() {
     <>
       <Layout>
         <main>
-          <div className="py-5 container-fluid project">
-            <div className="container ">
+          <div className="container-fluid project">
+            <div className="container">
               <div className="row justify-content-center">
                 <div className="col-lg-4 col-md-3 col-sm-4 col-3">
                   <img
@@ -29,14 +29,14 @@ export default function Project() {
                   <a
                     href={project.github}
                     target="_blank"
-                    className="btn-dark d-inline-flex align-items-center btn btn-primary btn-lg px-4 d-block py-1"
+                    className="btn-dark rounded-0 d-inline-flex align-items-center btn btn-primary btn-lg px-4 d-block py-1"
                   >
                     Visit repo
                   </a>
                   <a
                     href={project.deployedApp}
                     target="_blank"
-                    className="btn-dark d-inline-flex align-items-center mx-3 btn btn-primary btn-lg px-4 d-block py-1"
+                    className="btn-dark rounded-0 d-inline-flex align-items-center mx-3 btn btn-primary btn-lg px-4 d-block py-1"
                   >
                     Visit site
                   </a>
