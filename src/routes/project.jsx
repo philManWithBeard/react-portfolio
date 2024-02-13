@@ -12,7 +12,7 @@ export default function Project() {
     <>
       <Layout>
         <main>
-          <div className="py-5 container-fluid">
+          <div className="py-5 container-fluid project">
             <div className="container ">
               <div className="row justify-content-center">
                 <div className="col-lg-4 col-md-3 col-sm-4 col-3">
