@@ -1,10 +1,15 @@
 import React, { useState } from "react";
 
+// Endpoint to post details to
 const FORM_ENDPOINT =
-  "https://public.herotofu.com/v1/ac113350-c77a-11ee-bb69-515451de93af"; // TODO - update to the correct endpoint
+  "https://public.herotofu.com/v1/ac113350-c77a-11ee-bb69-515451de93af";
 
+// function to handle the stateful react form
 const ContactForm = () => {
+  // declare state for submitted and set it to false
   const [submitted, setSubmitted] = useState(false);
+
+  //
   const handleSubmit = (e) => {
     e.preventDefault();
 

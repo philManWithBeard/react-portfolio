@@ -1,6 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 
+// takes a link and a title as props and returns a React-Router link with bootstrap utility class styling
 export default function Button(props) {
   return (
     <>
