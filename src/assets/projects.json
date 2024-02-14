@@ -26,7 +26,7 @@
     "slug": "listeningto",
     "name": "Listeningto.io",
     "description": "Share what you've been listening to recently.",
-    "deployedApp": "https://grassrootsdruidsheath.pages.dev/",
+    "deployedApp": "https://listeningto-7c9c0e4b942d.herokuapp.com/",
     "github": "https://github.com/philManWithBeard/listeningto.io",
     "imageSrc": "https://github.com/philManWithBeard/react-portfolio/blob/main/src/assets/listeningto.png?raw=true",
     "imageAlt": "./",
