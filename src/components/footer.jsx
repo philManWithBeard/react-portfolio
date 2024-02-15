@@ -1,5 +1,6 @@
 import React from "react";
 
+// JSX with bootstrap
 export default function Footer() {
   return (
     <>

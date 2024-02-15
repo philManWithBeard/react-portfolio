@@ -1,6 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 
+// JSX with Bootstrap and react routers Link component. Takes props from projects page.
 export default function ProjectCard(props) {
   return (
     <>

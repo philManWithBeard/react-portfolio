@@ -1,6 +1,7 @@
 import React from "react";
 import { HashLink as Link } from "react-router-hash-link";
 
+// JSX with Bootstrap and react routers Link component
 export default function Header() {
   return (
     <>

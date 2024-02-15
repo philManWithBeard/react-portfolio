@@ -9,19 +9,21 @@ const ContactForm = () => {
   // declare state for submitted and set it to false
   const [submitted, setSubmitted] = useState(false);
 
-  //
+  // handle the submit button
   const handleSubmit = (e) => {
     e.preventDefault();
 
     const inputs = e.target.elements;
     const data = {};
 
+    // put inputs into an array called data
     for (let i = 0; i < inputs.length; i++) {
       if (inputs[i].name) {
         data[inputs[i].name] = inputs[i].value;
       }
     }
 
+    // POST the form
     fetch(FORM_ENDPOINT, {
       method: "POST",
       headers: {
@@ -38,7 +40,7 @@ const ContactForm = () => {
         setSubmitted(true);
       })
       .catch((err) => {
-        // Submit the form manually
+        // Submit the form with html if the fetch fails
         e.target.submit();
       });
   };
