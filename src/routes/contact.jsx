@@ -1,10 +1,10 @@
-import { Form } from "react-router-dom";
+import React from "react";
 import Layout from "../components/layout";
 import ContactForm from "../components/contactForm";
-import { Link } from "react-router-dom";
 import PhilsCV from "../assets/PhilsCV.pdf";
 import Button from "../components/button";
 
+// JSX with Bootstrap, passes props to Button, abstracts contact form to a component
 export default function Contact() {
   return (
     <>
