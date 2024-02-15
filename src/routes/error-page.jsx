@@ -1,7 +1,9 @@
+import React from "react";
 import { useRouteError } from "react-router-dom";
 import Header from "../components/header";
 import Footer from "../components/footer";
 
+// Displays an error page if the wrong route is input by the user
 export default function ErrorPage() {
   const error = useRouteError();
   console.error(error);

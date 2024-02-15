@@ -1,6 +1,8 @@
+import React from "react";
 import phil from "../assets/phil-pic.png";
 import Layout from "../components/layout";
 
+// displays the homepage
 export default function Root() {
   return (
     <>

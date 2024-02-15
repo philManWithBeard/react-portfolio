@@ -1,10 +1,12 @@
+import React from "react";
 import Layout from "../components/layout";
 import { useParams } from "react-router-dom";
 import ProjectsObj from "../assets/projects.json";
-import ProjectCard from "../components/projectCard";
 
 export default function Project() {
+  // takes parameters from the react router dom
   const { projectId } = useParams();
+  // compares the parameter to the slug in the imported object and filters the json so it's unique to that project
   const project = ProjectsObj.filter(
     (project) => project.slug === projectId
   )[0];

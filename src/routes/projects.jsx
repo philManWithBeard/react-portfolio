@@ -1,11 +1,9 @@
-import { Form } from "react-router-dom";
+import React from "react";
 import Layout from "../components/layout";
-import grassroots from "../assets/grassroots.png";
-import listening from "../assets/listeningto.png";
-import quizzical from "../assets/quizzical.png";
 import ProjectCard from "../components/projectCard";
 import ProjectsObj from "../assets/projects.json";
 
+// Maps over the project json and passes props to the ProjectCard component
 export default function Projects() {
   return (
     <>

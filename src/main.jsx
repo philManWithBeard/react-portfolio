@@ -7,6 +7,7 @@ import Contact from "./routes/contact";
 import Projects from "./routes/projects";
 import Project from "./routes/project";
 
+// sets up the router to handle errors, contact page, projects page and a dynamically routed project page
 const router = createBrowserRouter([
   {
     path: "/",
